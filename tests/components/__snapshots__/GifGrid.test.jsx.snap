@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Evaluando el componente <GifGrid /> Debe hacer Match con el snapshot cuando no existen datos 1`] = `
+<div>
+  <h3>
+    Dragon Ball
+  </h3>
+  <h2>
+    Cargando...
+  </h2>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
